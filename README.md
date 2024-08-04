@@ -16,10 +16,10 @@ This is a Java Swing application that measures your typing speed and accuracy. I
 
 ## Directory Structure
 
-Typing-speed-test
-└──src/
-  ├── Frame.java
-  ├── Text.java
-  └── Main.java
+Typing-speed-test<br>
+└──src/<br>
+  ├── Frame.java<br>
+  ├── Text.java<br>
+  └── Main.java<br>
 └──cartoon-funny-donkey.jpg  
 
